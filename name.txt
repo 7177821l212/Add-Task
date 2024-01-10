@@ -1,1 +1,1 @@
-this is sample reppo
+this is sample repo of github
